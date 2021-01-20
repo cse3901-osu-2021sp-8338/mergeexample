@@ -1,5 +1,5 @@
 this is a new file
 
-second line, added on remote, thanks for the change
+second line, conflict here added on remote
 
 thrird line, local addition
