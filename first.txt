@@ -3,3 +3,5 @@ this is a new file
 second line, conflict here added on remote
 
 thrird line, local addition
+
+yet another change
