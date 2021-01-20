@@ -1,3 +1,5 @@
 this is a new file
 
-second line, added on remote
+second line, added on remote, thanks for the change
+
+thrird line, local addition
